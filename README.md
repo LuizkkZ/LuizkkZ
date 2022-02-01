@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Luiz, sejam todos bem vindos!!!
 
 - 📚 Estudando Web FullStack!
-- 🌱 Futuro programador!
+- 👨🏻‍💻 Developer Node.js and ReactJS!
 - 🌎 Acredito que podemos melhorar o mundo!
 
 ##

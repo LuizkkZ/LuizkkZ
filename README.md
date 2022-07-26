@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Luiz, sejam todos bem vindos!!!
 
-- 📚 Estudando Web FullStack!
-- 👨🏻‍💻 Developer Node.js and ReactJS!
-- 🌎 Acredito que podemos melhorar o mundo!
+- 📚 Learning!
+- 👨🏻‍💻 Desenvolvedor Backend!
+- 🌎 A força não provém da capacidade física e sim de uma vontade indomável!
 
 ##
 
